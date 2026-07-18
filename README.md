@@ -9,7 +9,7 @@ This repository contains only the necessary lockdownd file. The full guide is pr
 ## What this file does
 
 - Bypasses activation on devices running iOS 6.1.3
-- Preserves Windows-iTunes synchronization (at least iTunes syncs music unlike iPh0ne4s's file, no macOS, for some reason it won't work)
+- Preserves Windows-iTunes synchronization (at least iTunes syncs music unlike iPh0ne4s's file, for some reason on macOS it works whenever it wants to)
 - Allows using the device without unlocking with Apple ID or using valid SIM
 
 ## Repository contents

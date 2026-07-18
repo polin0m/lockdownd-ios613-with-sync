@@ -1,10 +1,14 @@
 # lockdownd with pc sync
 
-A tool to bypass activation on iOS 6.1.3 while maintaining full PC sync functionality.
+A tool to bypass activation on iOS 6.1.3 while maintaining PC sync functionality.
 
 ## Important
 
 This repository contains only the necessary lockdownd file. The full guide is provided below.
+
+The reason I made this repo - [this](https://github.com/iPh0ne4s/iOS-5-6-Hacktivation) lockdownd wasn't working very well with 3utools and at all with iTunes or Finder. I know it works on nearly every device with iOS 5.0-6.1.6 and hacktivates them, but not iPT5, so here we are :)
+
+This lockdownd was made by [sn0wbreeze](https://github.com/iH8sn0w/sn0wbreeze/), iPhone3,2 6.1.3 ipsw, lockdownd taken from ipsw/048-2727-005.dmg/private/var/stash/lockdownd
 
 ## What this file does
 
@@ -16,7 +20,7 @@ This repository contains only the necessary lockdownd file. The full guide is pr
 
 - lockdownd - the main executable file required for the bypass
 
-## Installation Guide
+# Installation Guide
 
 Prerequisites:
 - A device running iOS 6.1.3 (or any iOS 6 i didn't test for now)

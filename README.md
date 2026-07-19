@@ -10,6 +10,11 @@ The reason I made this repo - [this](https://github.com/iPh0ne4s/iOS-5-6-Hacktiv
 
 This lockdownd was made by [sn0wbreeze](https://github.com/iH8sn0w/sn0wbreeze/), iPhone3,2 6.1.3 ipsw, lockdownd taken from ipsw/048-2727-005.dmg/private/var/stash/lockdownd
 
+## Working on
+
+- iPhone 4S 6.1.3 (maybe was working just fine with [this](https://github.com/iPh0ne4s/iOS-5-6-Hacktivation) but i don't really know don't have 4s and can't test)
+- iPod Touch 5 6.1.3
+
 ## What this file does
 
 - Bypasses activation on devices running iOS 6.1.3
@@ -67,6 +72,11 @@ ldrestart
 ## After installation
 
 Your device should now have activation bypassed while retaining the ability to sync with your PC via USB cable.
+
+## Todo list
+
+- Automated script ([феникс активатор ака легаси активатор](https://github.com/maksimka539/legacyactivator/) привет)
+- Test more devices idk
 
 ## Disclaimer
 

@@ -8,11 +8,11 @@ This repository contains only the necessary lockdownd file. The full guide is pr
 
 The reason I made this repo - [this](https://github.com/iPh0ne4s/iOS-5-6-Hacktivation) lockdownd wasn't working very well with 3utools and at all with iTunes or Finder. I know it works on nearly every device with iOS 5.0-6.1.6 and hacktivates them, but not iPT5, so here we are :)
 
-This lockdownd was made by [sn0wbreeze](https://github.com/iH8sn0w/sn0wbreeze/), iPhone3,2 6.1.3 ipsw, lockdownd taken from ipsw/048-2727-005.dmg/private/var/stash/lockdownd
+This lockdownd was made by [sn0wbreeze](https://github.com/iH8sn0w/sn0wbreeze/), iPhone3,2 6.1.3 ipsw, taken from ipsw/048-2727-005.dmg/private/var/stash/lockdownd
 
 ## Working on
 
-- iPhone 4S 6.1.3 (maybe was working just fine with [this](https://github.com/iPh0ne4s/iOS-5-6-Hacktivation) but i don't really know don't have 4s and can't test)
+- iPhone 4S 6.1.3
 - iPod Touch 5 6.1.3
 - Maybe will work on any 6.x, test and create an issue for me to expand this list
   

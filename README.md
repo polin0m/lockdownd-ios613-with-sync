@@ -1,6 +1,6 @@
-# lockdownd with pc sync
+# lockdownd with PC sync
 
-A tool to bypass activation on iOS 6.1.3 while maintaining PC sync functionality.
+The patched lockdownd to bypass activation on iOS 6.1.3 while maintaining PC sync functionality.
 
 ## Important
 
@@ -14,7 +14,8 @@ This lockdownd was made by [sn0wbreeze](https://github.com/iH8sn0w/sn0wbreeze/),
 
 - iPhone 4S 6.1.3 (maybe was working just fine with [this](https://github.com/iPh0ne4s/iOS-5-6-Hacktivation) but i don't really know don't have 4s and can't test)
 - iPod Touch 5 6.1.3
-
+- Maybe will work on any 6.x, test and create an issue for me to expand this list
+  
 ## What this file does
 
 - Bypasses activation on devices running iOS 6.1.3
@@ -86,3 +87,4 @@ Use this tool at your own risk. The author is not responsible for any damage to 
 
 - [Sn0wbreeze](https://github.com/iH8sn0w/sn0wbreeze/) and its developers for the original method
 - [iOS 5-6 Hacktivation](https://github.com/iPh0ne4s/iOS-5-6-Hacktivation) for my first bypass and giving me the idea to fix pc sync
+- DeepSeek for helping with README bc i don't know markdown lol

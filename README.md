@@ -14,7 +14,7 @@ This lockdownd was made by [sn0wbreeze](https://github.com/iH8sn0w/sn0wbreeze/),
 
 - iPhone 4S 6.1.3
 - iPod Touch 5 6.1.3
-- iPhone 4 Rev A 6.0 & 6.1.3 (no shit)
+- iPhone 4 Rev A 6.0-6.1.3 (no shit)
 - Maybe will work on any 6.x, test and create an issue for me to expand this list
   
 ## What this file does
